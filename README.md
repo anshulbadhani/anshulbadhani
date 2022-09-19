@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi there 👋 I'm Anshul Badhani.
+- 👀 I’m interested learning Python, Game Dev and DSA...
+- 🌱 I’m currently improving my skills in Python and JavaScript.
+- 💬 Ask me anything about programming. I will try to answer your question.
+- 📫 How to reach me:
+    E-mail : anshulbadhani@gmail.com
+    Instagram : [@anshulbadhani](instagram.com/anshulbadhani)
+    GitHub: [@anshulbadhani](github.com/anshulbadhani)
 
 <!--
 **anshulbadhani/anshulbadhani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
