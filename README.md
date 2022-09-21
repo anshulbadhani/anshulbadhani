@@ -2,6 +2,7 @@
 - 👀 I’m interested learning Python, Game Dev and DSA...
 - 🌱 I’m currently improving my skills in Python and JavaScript.
 - 💬 Ask me anything about programming. I will try to answer your question.
+- ⚡ Besides Computer Science I'm also interested in Math, Physics, Economics and Geo Politics.
 - 📫 How to reach me:
     E-mail : anshulbadhani@gmail.com
     Instagram : [@anshulbadhani](instagram.com/anshulbadhani)
