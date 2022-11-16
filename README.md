@@ -1,8 +1,8 @@
 ### Hi there 👋 I'm Anshul Badhani.
-- 👀 I’m interested learning Python, Game Dev and DSA...
-- 🌱 I’m currently improving my skills in Python and JavaScript.
+- 👀 I’m interested in learning C++, Game Dev and DSA...
+- 🌱 I’m currently improving my skills in Python.
 - 💬 Ask me anything about programming. I will try to answer your question.
-- ⚡ Besides Computer Science I'm also interested in Math, Physics, Economics and Geo Politics.
+- ⚡ Besides Computer Science I'm also interested in Math, Physics, Economics and International Relations.
 - 📫 How to reach me:
     E-mail : anshulbadhani@gmail.com
     Instagram : [@anshulbadhani](instagram.com/anshulbadhani)
