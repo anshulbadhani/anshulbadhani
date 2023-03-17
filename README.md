@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Anshul Badhani.
 - 🌱 Currently learning Rust
-- 🔭 Currently trying to rewrite my exesting projects in more efficient ways in Rust language 
+- 🔭 Currently trying to rewrite my existing projects in more efficient ways in Rust language 
 - 💬 Ask me anything about programming. I will try to answer your question.
 - ⚡ Besides Computer Science I'm also interested in Math, Physics and Economics.
 - 📫 How to reach me:
