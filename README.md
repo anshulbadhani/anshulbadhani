@@ -9,7 +9,6 @@ I'm a high school student who is fascinated with Computers💻 and curious to le
 - 🌱 Currently learning Rust<img height=20 src="https://github.com/rust-lang/rust-artwork/blob/master/logo/rust-logo-128x128.png">.
 - ⚡ Besides Computer Science I'm also interested in Math➗, Physics🚀 and Economics💵.
 - 📫 How to reach me:<br>
-    E-mail : anshulbadhani@gmail.com<br>
     [![Email Badge](https://img.shields.io/badge/-Email-e4405f?style=flat-square&logo=Gmail&logoColor=white&color=critical)](mailto:anshulbadhani@gmail.com)<br>
     [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/anshulbadhani)<br>
     [![GitHub Badge](https://img.shields.io/badge/-GitHub-e4405f?style=flat-square&logo=Github&logoColor=black&color=white)](https://github.com/anshulbadhani)<br>
