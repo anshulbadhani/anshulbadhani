@@ -16,13 +16,13 @@ I'm a high school student who is fascinated with Computers💻 and curious to le
     
 <h2 align="center">📈 My GitHub stats </h2>
 
-<div align="center">
+<div>
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anshulbadhani&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anshulbadhani&hide_border=true&layout=compact&langs_count=5"/>
 </div><hr>
 
 <h2 align="center">✨My favourite Repositories </h2>
-<div align="center">
+<div>
     <a href="https://github.com/anshulbadhani/Whitespace-syntax-writer">
         <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anshulbadhani&repo=Whitespace-syntax-writer&theme=buefy" />
     </a>
