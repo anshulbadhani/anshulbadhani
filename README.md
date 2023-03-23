@@ -24,10 +24,10 @@ I'm a high school student who is fascinated with Computers💻 and curious to le
 <h2 align="center">✨My favourite Repositories </h2>
 <div>
     <a href="https://github.com/anshulbadhani/Whitespace-syntax-writer">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anshulbadhani&repo=Whitespace-syntax-writer&theme=buefy" />
+        <img align="center" padding="2px" src="https://github-readme-stats.vercel.app/api/pin/?username=anshulbadhani&repo=Whitespace-syntax-writer&theme=buefy" />
     </a>
     <a href="https://github.com/anshulbadhani/Clicks-Per-Second">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anshulbadhani&repo=Clicks-Per-Second&theme=buefy" />
+        <img align="center" padding="2px" src="https://github-readme-stats.vercel.app/api/pin/?username=anshulbadhani&repo=Clicks-Per-Second&theme=buefy" />
     </a>
 </div>
     
