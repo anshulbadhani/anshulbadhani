@@ -14,24 +14,24 @@ I'm a high school student who is fascinated with Computers💻 and curious to le
     [![GitHub Badge](https://img.shields.io/badge/-GitHub-e4405f?style=flat-square&logo=Github&logoColor=black&color=white)](https://github.com/anshulbadhani)<br>
 <hr>
     
-### 📈 My GitHub stats
+<h2 align="center">📈 My GitHub stats </h2>
 
-<p>
+<div align="center">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anshulbadhani&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anshulbadhani&hide_border=true&layout=compact&langs_count=5"/>
-<p><hr>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anshulbadhani&hide_border=true&layout=compact&langs_count=5"/>
+</div><hr>
 
 <h2 align="center">✨My favourite Repositories </h2>
 <div align="center">
     <a href="https://github.com/anshulbadhani/Whitespace-syntax-writer">
-        <img height="150em" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anshulbadhani&repo=Whitespace-syntax-writer" />
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anshulbadhani&repo=Whitespace-syntax-writer&theme=buefy" />
     </a>
     <a href="https://github.com/anshulbadhani/Clicks-Per-Second">
-        <img height="150em" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anshulbadhani&repo=Clicks-Per-Second" />
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anshulbadhani&repo=Clicks-Per-Second&theme=buefy" />
     </a>
 </div>
     
-<!-- ![](https://visitor-badge.glitch.me/badge?page_id=anshulbadhani.anshulbadhani) -->
+![](https://visitor-badge.glitch.me/badge?page_id=anshulbadhani.anshulbadhani)
 <!--
 **anshulbadhani/anshulbadhani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
