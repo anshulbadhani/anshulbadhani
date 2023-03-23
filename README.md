@@ -36,15 +36,20 @@ I'm a high school student who is fascinated with Computers💻 and curious to le
     [![GitHub Badge](https://img.shields.io/badge/-GitHub-e4405f?style=flat-square&logo=Github&logoColor=black&color=white)](https://github.com/anshulbadhani)<br>
 <hr>
     
-<h2 align="center">📈 My GitHub stats </h2>
+<h2 align="center">📈 My Account stats </h2>
 
-<div>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anshulbadhani&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anshulbadhani&hide_border=true&layout=compact&langs_count=5"/>
+<div align="center">
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anshulbadhani&show_icons=true&locale=en&layout=compact" alt="anshulbadhani" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anshulbadhani&show_icons=true&locale=en" alt="anshulbadhani" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anshulbadhani&" alt="anshulbadhani" />
+<!-- <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anshulbadhani" alt="anshulbadhani" /></a> </p> -->
+</p>
 </div><hr>
 
 <h2 align="center">✨My favourite Repositories </h2>
-<div>
+<div align="center">
     <a href="https://github.com/anshulbadhani/Whitespace-syntax-writer">
         <img align="center" padding="2px" src="https://github-readme-stats.vercel.app/api/pin/?username=anshulbadhani&repo=Whitespace-syntax-writer&theme=buefy" />
     </a>
