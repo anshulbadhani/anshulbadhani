@@ -45,7 +45,7 @@ I’m a freshman, just figuring things out and diving into whatever catches my i
   
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=anshulbadhani" alt="GitHub Streak" height="200"/>
   
-  <p align="center">
+  <p>
     <a href="https://github.com/ryo-ma/github-profile-trophy">
       <img src="https://github-profile-trophy.vercel.app/?username=anshulbadhani" alt="Trophies" />
     </a>
