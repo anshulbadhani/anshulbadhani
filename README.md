@@ -53,24 +53,25 @@ I’m a freshman, just figuring things out and diving into whatever catches my i
 </div>
 <hr>
 
-
+<!-- Have to fix alignment issue later -->
 <h2 align="center">✨My favourite Repositories </h2>
 <div align="center">
-    <a href="https://github.com/anshulbadhani/Whitespace-syntax-writer">
-        <img align="center" padding="2px" src="https://github-readme-stats.vercel.app/api/pin/?username=anshulbadhani&repo=Whitespace-syntax-writer&theme=buefy" />
+    <a href="https://github.com/anshulbadhani/code2doc">
+        <img align="center" padding="2px" src="https://github-readme-stats.vercel.app/api/pin/?username=anshulbadhani&repo=code2doc&theme=buefy" />
     </a>
-    <a href="https://github.com/anshulbadhani/Clicks-Per-Second">
-        <img align="center" padding="2px" src="https://github-readme-stats.vercel.app/api/pin/?username=anshulbadhani&repo=Clicks-Per-Second&theme=buefy" />
+    <a href="https://github.com/anshulbadhani/osdhack25">
+        <img align="center" padding="2px" src="https://github-readme-stats.vercel.app/api/pin/?username=anshulbadhani&repo=osdhack25&theme=buefy" />
     </a>
 </div>
 <hr>
-    
+
+<!--
 ### 🤩Number Of People who saw my account:
 
 ![Visitor Count](https://profile-counter.glitch.me/anshulbadhani/count.svg)
     
 Thanks For Visiting!!😄
-
+-->
 <!-- <a href="https://manytools.org/hacker-tools/ascii-banner/"></a> -->
 <!--
 **anshulbadhani/anshulbadhani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
