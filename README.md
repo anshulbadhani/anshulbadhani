@@ -1,7 +1,7 @@
 ![image](https://github.com/user-attachments/assets/ec04a5e6-7965-423d-8c00-ad2107f3b55f)
 
 # <samp>&gt; Hey, I'm Anshul 👋
-I’m a freshman, just figuring things out and diving into whatever catches my interest (squirrel!). If it’s interesting, I’m probably already deep into it. Expect the unexpected!
+I’m a sophomore, just figuring things out and diving into whatever catches my interest (squirrel!). If it’s interesting, I’m probably already deep into it. Expect the unexpected!
 
 ### About Me
 - 🔭 I’m currently doing stupid college assignments 🥲
