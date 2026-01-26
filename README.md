@@ -34,56 +34,7 @@ I’m a sophomore, just figuring things out and diving into whatever catches my 
     [![Email Badge](https://img.shields.io/badge/-Email-e4405f?style=flat-square&logo=Gmail&logoColor=white&color=critical)](mailto:anshulbadhani@gmail.com)<br>
     [![GitHub Badge](https://img.shields.io/badge/-GitHub-e4405f?style=flat-square&logo=Github&logoColor=black&color=white)](https://github.com/anshulbadhani)<br>
     [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0077b5?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/anshulbadhani/)
-<hr>
-    
-<!-- <h2 align="center">📈 My Account Stats</h2>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=anshulbadhani&show_icons=true&locale=en&layout=compact&hide=html,css,makefile,cmake" alt="Top Languages" height="200"/>
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=anshulbadhani&show_icons=true&locale=en" alt="GitHub Stats" height="200"/>
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anshulbadhani" alt="GitHub Streak" height="200"/>
-   -->
   <p>
-    <!-- <a href="https://github.com/ryo-ma/github-profile-trophy">-->
-      <!-- <img src="https://github-profile-trophy.vercel.app/?username=anshulbadhani" alt="Trophies" /> -->
     </a>
   </p>
 </div>
-<hr>
-
-<!-- Have to fix alignment issue later -->
-<!-- <h2 align="center">✨My favourite Repositories </h2>
-<div align="center">
-    <a href="https://github.com/anshulbadhani/code2doc">
-        <img align="center" padding="2px" src="https://github-readme-stats.vercel.app/api/pin/?username=anshulbadhani&repo=code2doc&theme=buefy" />
-    </a>
-    <a href="https://github.com/anshulbadhani/osdhack25">
-        <img align="center" padding="2px" src="https://github-readme-stats.vercel.app/api/pin/?username=anshulbadhani&repo=osdhack25&theme=buefy" />
-    </a>
-</div>
-<hr> -->
-
-<!--
-### 🤩Number Of People who saw my account:
-
-![Visitor Count](https://profile-counter.glitch.me/anshulbadhani/count.svg)
-    
-Thanks For Visiting!!😄
--->
-<!-- <a href="https://manytools.org/hacker-tools/ascii-banner/"></a> -->
-<!--
-**anshulbadhani/anshulbadhani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
