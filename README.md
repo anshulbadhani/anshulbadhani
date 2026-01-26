@@ -36,7 +36,7 @@ I’m a sophomore, just figuring things out and diving into whatever catches my 
     [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0077b5?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/anshulbadhani/)
 <hr>
     
-<h2 align="center">📈 My Account Stats</h2>
+<!-- <h2 align="center">📈 My Account Stats</h2>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=anshulbadhani&show_icons=true&locale=en&layout=compact&hide=html,css,makefile,cmake" alt="Top Languages" height="200"/>
@@ -44,17 +44,17 @@ I’m a sophomore, just figuring things out and diving into whatever catches my 
   <img src="https://github-readme-stats.vercel.app/api?username=anshulbadhani&show_icons=true&locale=en" alt="GitHub Stats" height="200"/>
   
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=anshulbadhani" alt="GitHub Streak" height="200"/>
-  
+   -->
   <p>
-    <a href="https://github.com/ryo-ma/github-profile-trophy">
-      <img src="https://github-profile-trophy.vercel.app/?username=anshulbadhani" alt="Trophies" />
+    <!-- <a href="https://github.com/ryo-ma/github-profile-trophy">-->
+      <!-- <img src="https://github-profile-trophy.vercel.app/?username=anshulbadhani" alt="Trophies" /> -->
     </a>
   </p>
 </div>
 <hr>
 
 <!-- Have to fix alignment issue later -->
-<h2 align="center">✨My favourite Repositories </h2>
+<!-- <h2 align="center">✨My favourite Repositories </h2>
 <div align="center">
     <a href="https://github.com/anshulbadhani/code2doc">
         <img align="center" padding="2px" src="https://github-readme-stats.vercel.app/api/pin/?username=anshulbadhani&repo=code2doc&theme=buefy" />
@@ -63,7 +63,7 @@ I’m a sophomore, just figuring things out and diving into whatever catches my 
         <img align="center" padding="2px" src="https://github-readme-stats.vercel.app/api/pin/?username=anshulbadhani&repo=osdhack25&theme=buefy" />
     </a>
 </div>
-<hr>
+<hr> -->
 
 <!--
 ### 🤩Number Of People who saw my account:
